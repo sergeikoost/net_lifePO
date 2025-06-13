@@ -17,3 +17,6 @@ Standart Workflow:
 
 
 
+Далее перейдем в Workflow schemes и настроим схемы:
+
+![photo_2025-06-13_16-41-41](https://github.com/user-attachments/assets/c4bc45ab-a79c-489e-a096-1449222d7e81)
