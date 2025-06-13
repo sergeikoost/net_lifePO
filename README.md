@@ -12,6 +12,8 @@ Bug Workflow:
 
 Standart Workflow:
 
-![Uploading photo_2025-06-13_16-35-53.jpg…]()
+
+![photo_2025-06-13_16-33-42](https://github.com/user-attachments/assets/9f71616b-bbed-4dbb-b97e-e265d2d949ee)
+
 
 
