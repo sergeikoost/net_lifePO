@@ -19,4 +19,6 @@ Standart Workflow:
 
 Далее перейдем в Workflow schemes и настроим схемы:
 
-![photo_2025-06-13_16-41-41](https://github.com/user-attachments/assets/c4bc45ab-a79c-489e-a096-1449222d7e81)
+![homework7_task3](https://github.com/user-attachments/assets/a53616a9-3d93-4774-baee-e691c8b39633)
+
+####Поскольку я ранее не работал в Jira несколько раз пришлось все пересоздавать, поэтому названия проектов и прочие мелочи могут отличаться от скрина к скрину :)
