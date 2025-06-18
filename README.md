@@ -27,3 +27,4 @@ Standart Workflow:
 Создаем задачи и проводим их согласно дз на доске Kanban и делаем спринт на доске Scrum, проблем не возникает:
 
 ![homework7_task2](https://github.com/user-attachments/assets/f2912e00-7690-4a13-bba2-e72945347441)
+![homework7_task4](https://github.com/user-attachments/assets/1b521b98-8dcb-468f-98d5-96dd4e1f326c)
