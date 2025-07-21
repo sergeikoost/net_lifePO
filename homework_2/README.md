@@ -11,11 +11,13 @@
 
 ## Создал 2 вм согласно инструкции:
 
-<img width="888" height="387" alt="ci cd_homework1" src="https://github.com/user-attachments/assets/ec335031-b78f-4314-bec0-c00327f57640" />
+<img width="1852" height="244" alt="ci cd_homework1 2" src="https://github.com/user-attachments/assets/215b715c-eb0c-48a8-b55a-87868095ab8d" />
+
 
 Увидел что есть неавторизованнный агент, что говорит о корректности первоначальных настроек:
 
-<img width="1852" height="244" alt="ci cd_homework1 2" src="https://github.com/user-attachments/assets/4e530404-1aa8-4d30-b20e-44d05704cfb7" />
+<img width="888" height="387" alt="ci cd_homework1" src="https://github.com/user-attachments/assets/5fafcdb9-8a61-41d3-9e3d-748414f90467" />
+
 
 Авторизуем:
 
