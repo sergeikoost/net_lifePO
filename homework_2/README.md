@@ -23,11 +23,17 @@
 
 <img width="1230" height="278" alt="ci cd_homework1 3" src="https://github.com/user-attachments/assets/029da037-cfe5-4bdf-9b52-6173efd6cad9" />
 
+## На этом подготовка к выполнению задания завершена. Идем дальше.
+
+# Основная часть.
+
+1) Создайте новый проект в teamcity на основе fork.
+2) Сделайте autodetect конфигурации.
+3) Сохраните необходимые шаги, запустите первую сборку master.
 
 
 
-### Запускаем build и видим что все прошло успешно:
-
+### Сделал, произвел билд, все прошло успешно:
 
 <img width="1520" height="721" alt="ci cd_homework1 4" src="https://github.com/user-attachments/assets/3013c83d-79ab-4de2-8a68-e82321cecbd7" />
 <img width="1510" height="527" alt="ci cd_homework1 5" src="https://github.com/user-attachments/assets/f3da39be-3014-4c56-a58e-051fa0993a64" />
