@@ -37,3 +37,15 @@
 
 <img width="1520" height="721" alt="ci cd_homework1 4" src="https://github.com/user-attachments/assets/3013c83d-79ab-4de2-8a68-e82321cecbd7" />
 <img width="1510" height="527" alt="ci cd_homework1 5" src="https://github.com/user-attachments/assets/f3da39be-3014-4c56-a58e-051fa0993a64" />
+
+4) Поменяйте условия сборки: если сборка по ветке master, то должен происходит mvn clean deploy, иначе mvn clean test.
+
+Создал еще один шаг, в котором указал условия:
+
+<img width="1503" height="672" alt="ci cd_homework1 6" src="https://github.com/user-attachments/assets/74dbe717-3c59-4d0f-8cc3-0879c4a29812" />
+
+
+5) Для deploy будет необходимо загрузить settings.xml в набор конфигураций maven у teamcity, предварительно записав туда креды для подключения к nexus.
+6) В pom.xml необходимо поменять ссылки на репозиторий и nexus.
+7) Запустите сборку по master, убедитесь, что всё прошло успешно и артефакт появился в nexus.
+
