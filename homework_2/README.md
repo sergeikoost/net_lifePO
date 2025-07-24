@@ -49,3 +49,11 @@
 6) В pom.xml необходимо поменять ссылки на репозиторий и nexus.
 7) Запустите сборку по master, убедитесь, что всё прошло успешно и артефакт появился в nexus.
 
+
+### Сборка
+
+<img width="1510" height="900" alt="ci cd_homework1 7" src="https://github.com/user-attachments/assets/ce0d6768-810a-418b-8c0d-695c785d2c23" />
+
+### Артефакт в Nexus
+
+<img width="1906" height="384" alt="ci cd_homework1 8" src="https://github.com/user-attachments/assets/5854536e-a241-4bcf-9ae7-62e9c2c12e22" />
