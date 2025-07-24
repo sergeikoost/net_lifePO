@@ -57,3 +57,51 @@
 ### Артефакт в Nexus
 
 <img width="1906" height="384" alt="ci cd_homework1 8" src="https://github.com/user-attachments/assets/5854536e-a241-4bcf-9ae7-62e9c2c12e22" />
+
+8) Мигрируйте build configuration в репозиторий.
+9) Создайте отдельную ветку feature/add_reply в репозитории.
+10) Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово hunter.
+
+
+HelloPlayer.java:
+
+
+```
+
+package plaindoll;
+
+public class HelloPlayer{
+	public static void main(String[] args) {
+		Welcomer welcomer = new Welcomer();
+		System.out.println(welcomer.sayWelcome());
+		System.out.println(welcomer.sayFarewell());
+                System.out.println(welcomer.saySergeikoost());
+	}
+}
+```
+
+Welcomer.java
+
+```
+package plaindoll;
+
+public class Welcomer{
+	public String sayWelcome() {
+		return "Welcome home, good hunter. What is it your desire?";
+	}
+	public String sayFarewell() {
+		return "Farewell, good hunter. May you find your worth in waking world.";
+	}
+	public String sayNeedGold(){
+		return "Not enough gold";
+	}
+	public String saySome(){
+		return "something in the way";
+	}
+	
+	public String saySergeikoost(){
+		return "I am hunter Sergeikoost";
+	}
+}
+
+```
