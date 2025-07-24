@@ -58,9 +58,12 @@
 
 <img width="1906" height="384" alt="ci cd_homework1 8" src="https://github.com/user-attachments/assets/5854536e-a241-4bcf-9ae7-62e9c2c12e22" />
 
+
+
 8) Мигрируйте build configuration в репозиторий.
 9) Создайте отдельную ветку feature/add_reply в репозитории.
 10) Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово hunter.
+11) Дополните тест для нового метода на поиск слова hunter в новой реплике.
 
 
 HelloPlayer.java:
